@@ -6,7 +6,7 @@ Akshat Mishra
 ---
 
 ## 📂 Repository Structure  
-ds_<your_name>/
+ds_<Akshat_Mishra>/
 ├── notebook_1.ipynb               # Main Google Colab notebook (EDA, analysis, results)
 ├── csv_files/                     # Intermediate data outputs
 │ ├── daily_aggregates.csv
